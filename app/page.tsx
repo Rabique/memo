@@ -48,7 +48,7 @@ export default function Home() {
               width={16}
               height={16}
             />
-            Deploy to skynet
+            Deploy to ocean
 
           </a>
           <a
